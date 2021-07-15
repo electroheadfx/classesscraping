@@ -1,0 +1,132 @@
+[
+  {
+    "name": "wistiaVisitorKey",
+    "value": "3862be3_7b892ec2-51a9-4c91-ba34-05481e1aa2ce-012fc1687-ec2e85e55c0a-8d24",
+    "expires": 0,
+    "domain": "codewithmosh.com",
+    "path": "/courses/1120640/lectures"
+  },
+  {
+    "name": "ahoy_visitor",
+    "value": "f65e392d-2b83-408c-9ff1-3d62f10dee35",
+    "expires": 13332769858072280,
+    "domain": "codewithmosh.com",
+    "path": "/",
+    "Secure": true
+  },
+  {
+    "name": "_afid",
+    "value": "f65e392d-2b83-408c-9ff1-3d62f10dee35",
+    "expires": 13301233858072384,
+    "domain": ".codewithmosh.com",
+    "path": "/",
+    "Secure": true
+  },
+  {
+    "name": "aid",
+    "value": "f65e392d-2b83-408c-9ff1-3d62f10dee35",
+    "expires": 13301233858072420,
+    "domain": ".codewithmosh.com",
+    "path": "/",
+    "Secure": true
+  },
+  {
+    "name": "ac_enable_tracking",
+    "value": "1",
+    "expires": 13273351111000000,
+    "domain": "codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "expires": 13302287911000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%221cf060ea-bcc5-49fe-83a6-91f79210ed60%22",
+    "expires": 13301233858000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1211691768.1625224259",
+    "expires": 13278527912000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "%2260482448%22",
+    "expires": 13302287911000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "_session_id",
+    "value": "28fd26c6ec337d9205e0d6f8974ae6c9",
+    "expires": 13273343905854000,
+    "domain": "codewithmosh.com",
+    "path": "/",
+    "Secure": true,
+    "HttpOnly": true
+  },
+  {
+    "name": "ahoy_visit",
+    "value": "716f3d08-eff2-4c9a-b123-335f0054e757",
+    "expires": 13270766305853900,
+    "domain": "codewithmosh.com",
+    "path": "/",
+    "Secure": true
+  },
+  {
+    "name": "signed_in",
+    "value": "true",
+    "expires": 0,
+    "domain": "codewithmosh.com",
+    "path": "/",
+    "Secure": true
+  },
+  {
+    "name": "site_preview",
+    "value": "logged_in",
+    "expires": 0,
+    "domain": "codewithmosh.com",
+    "path": "/",
+    "Secure": true,
+    "HttpOnly": true
+  },
+  {
+    "name": "__cfruid",
+    "value": "4cdb2ca089aa2dd0b9db364b81ee7901cf6f6328-1626277870",
+    "expires": 0,
+    "domain": ".codewithmosh.com",
+    "path": "/",
+    "Secure": true,
+    "HttpOnly": true
+  },
+  {
+    "name": "ahoy_events",
+    "value": "%5B%7B%22id%22%3A%22a70f52aa-53b8-41f9-a237-3ab18c28d5ea%22%2C%22name%22%3A%22%24view%22%2C%22properties%22%3A%7B%22url%22%3A%22https%3A//codewithmosh.com/courses/enrolled/1120640%22%2C%22title%22%3A%22Code%20with%20Mosh%22%2C%22page%22%3A%22/courses/enrolled/1120640%22%7D%2C%22time%22%3A1626278311.849%7D%5D",
+    "expires": 13270751971000000,
+    "domain": "codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "_uetsid",
+    "value": "53f32270e4bb11eb9367d38d34749bdd",
+    "expires": 13270838312000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  },
+  {
+    "name": "_uetvid",
+    "value": "2e1351f0db2611ebb6c8e76f3ac3acbb",
+    "expires": 13304447912000000,
+    "domain": ".codewithmosh.com",
+    "path": "/"
+  }
+]
