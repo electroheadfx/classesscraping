@@ -2,3 +2,4 @@
 dev
 download/*
 node_modules
+composants/cache/*
